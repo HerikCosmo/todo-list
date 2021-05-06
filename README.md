@@ -1,6 +1,6 @@
 # TO-DO LIST
 
-<img src='design/layout-desktop.png'>
+<img src='design/layout-desktop.PNG'>
 
 ## Tecnologias
 - HTML5
