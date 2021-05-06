@@ -2,7 +2,7 @@
 
 <img src='design/layout-desktop.png'>
 
-##Tecnologias
+## Tecnologias
 - HTML5
 - CSS3
 - Vue.js
